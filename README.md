@@ -6,3 +6,4 @@ jdk1.8
 nodejs 14/16
 idea
 mysql5.7
+IDEA
